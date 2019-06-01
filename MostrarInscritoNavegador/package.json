@@ -1,0 +1,9 @@
+{
+  "main": "principal.js",
+  "author": "Cristian Geovany Arias Castro",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4",
+	"express": "^4.17.1"
+  }
+}
